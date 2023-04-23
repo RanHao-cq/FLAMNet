@@ -1,6 +1,10 @@
 # FLAMNet
 PyTorch implementation of the paper "FLAMNet: A Flexible Line Anchor Mechanism Network for Lane Detection". 
 
+## CULane demo
+
+https://user-images.githubusercontent.com/79684320/233837770-5d0b6579-ff7e-4969-bc3f-03bb2dcf05a9.mp4
+
 ## Real traffic scene test demo
 
 * **Test the FLAMNet-DLA34 model trained on the CULane dataset in real traffic scenarios (Chongqing, China).**
@@ -12,7 +16,14 @@ PyTorch implementation of the paper "FLAMNet: A Flexible Line Anchor Mechanism N
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/79684320/233836708-fc54aa48-beea-4b2e-865e-f4ff49c96c5a.png)](https://drive.google.com/file/d/1kbuZM1sK7lv_EbDmXL6GKLMJh_hz-DMr/view?usp=sharing)
 
 ## Results
+![FLAMNet_CULane](https://user-images.githubusercontent.com/79684320/233837647-973c9609-3a1b-451f-9bff-bc5c5eb76e98.png)
 
+### CULane
+
+|   Backbone  |  F1@50 | F1w  | FPS |
+| :---  |  :---:   |   :---:    | :---:|
+| [ResNet-34]()     | 80.19  |  80.96   | 98 |
+| [DLA-34]()     | 80.55|  82.06   | 82 |
 
 ## Introduction
 ![FLAMNet](https://user-images.githubusercontent.com/79684320/233835753-07905d1a-ff30-44ff-9ea8-d68a03030781.png)
