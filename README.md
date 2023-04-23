@@ -2,9 +2,14 @@
 PyTorch implementation of the paper "FLAMNet: A Flexible Line Anchor Mechanism Network for Lane Detection". 
 
 ## Real traffic scene test demo
-[![IMAGE ALT TEXT](![FLAMNet_cq](https://user-images.githubusercontent.com/79684320/233836692-a980b0c1-3ed8-412e-b573-ef6e4d620c31.png))](https://drive.google.com/file/d/1V4gHCJGESfLwda-4dflLajrzL4gEgVhA/view?usp=sharing)
-[![IMAGE ALT TEXT](![FLAMNet_CLRNet](https://user-images.githubusercontent.com/79684320/233836708-fc54aa48-beea-4b2e-865e-f4ff49c96c5a.png)
-)](https://drive.google.com/file/d/1kbuZM1sK7lv_EbDmXL6GKLMJh_hz-DMr/view?usp=sharing)
+
+* **Test the FLAMNet-DLA34 model trained on the CULane dataset in real traffic scenarios (Chongqing, China).**
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/79684320/233836692-a980b0c1-3ed8-412e-b573-ef6e4d620c31.png)](https://drive.google.com/file/d/1V4gHCJGESfLwda-4dflLajrzL4gEgVhA/view?usp=sharing)
+
+* **Performance comparison between FLAMNet and CLRNet in real traffic scenarios (Chongqing, China).**
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/79684320/233836708-fc54aa48-beea-4b2e-865e-f4ff49c96c5a.png)](https://drive.google.com/file/d/1kbuZM1sK7lv_EbDmXL6GKLMJh_hz-DMr/view?usp=sharing)
 
 ## Results
 
