@@ -1,5 +1,5 @@
 # FLAMNet
-PyTorch implementation of the paper "FLAMNet: A Flexible Line Anchor Mechanism Network for Lane Detection". 
+PyTorch implementation of the paper "FLAMNet: A Flexible Line Anchor Mechanism Network for Lane Detection —— Hao Ran, Yunfei Yin, Member, IEEE, Faliang Huang, Xianjian Bao". 
 
 ## CULane demo
 
