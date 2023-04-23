@@ -44,14 +44,14 @@ Only test on Ubuntu18.04 and 20.04 with:
 Clone this code to your workspace. 
 We call this directory as `$CLRNET_ROOT`
 ```Shell
-git clone https://github.com/Turoad/clrnet
+git clone https://github.com/RanHao-cq/FLAMNet.git
 ```
 
 ### Create a conda virtual environment and activate it (conda is optional)
 
 ```Shell
-conda create -n clrnet python=3.8 -y
-conda activate clrnet
+conda create -n flament python=3.8 -y
+conda activate flamnet
 ```
 
 ### Install dependencies
@@ -156,5 +156,3 @@ For example, run
 python main.py configs/flamnet/flamnet_dla34_culane.py --validate --load_from culane_dla34.pth --gpus 0
 ```
 
-Currently, this code can output the visualization result when testing, just add `--view`.
-We will get the visualization result in `work_dirs/xxx/xxx/visualization`.
