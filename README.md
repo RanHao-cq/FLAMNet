@@ -20,10 +20,10 @@ https://user-images.githubusercontent.com/79684320/233837770-5d0b6579-ff7e-4969-
 
 ### CULane
 
-|   Backbone  |  F1@50 | F1w  | FPS |
-| :---  |  :---:   |   :---:    | :---:|
-| [ResNet-34]()     | 80.19  |  80.96   | 98 |
-| [DLA-34]()     | 80.55|  82.06   | 82 |
+|   Method |   Backbone  |  F1@50 | F1w  | FPS |
+| :---  | :---  |  :---:   |   :---:    | :---:|
+|  FLMANet  | [ResNet-34]()     | 80.19  |  80.96   | 98 |
+|  FLMANet  | [DLA-34]()     | 80.55|  82.06   | 82 |
 
 ## Introduction
 ![FLAMNet](https://user-images.githubusercontent.com/79684320/233835753-07905d1a-ff30-44ff-9ea8-d68a03030781.png)
