@@ -50,7 +50,7 @@ git clone https://github.com/RanHao-cq/FLAMNet.git
 ### Create a conda virtual environment and activate it (conda is optional)
 
 ```Shell
-conda create -n flament python=3.8 -y
+conda create -n flamnet python=3.8 -y
 conda activate flamnet
 ```
 
