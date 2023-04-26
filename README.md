@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/79684320/233837770-5d0b6579-ff7e-4969-
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/79684320/233836708-fc54aa48-beea-4b2e-865e-f4ff49c96c5a.png)](https://drive.google.com/file/d/1kbuZM1sK7lv_EbDmXL6GKLMJh_hz-DMr/view?usp=sharing)
 
 ## Results
-![FLAMNet_CULane](https://user-images.githubusercontent.com/79684320/233837647-973c9609-3a1b-451f-9bff-bc5c5eb76e98.png)
+![FLAMNet_CULane](![CULane](https://user-images.githubusercontent.com/79684320/234516261-e433c528-da16-4225-abc4-3ac2c67faac4.jpg))
 
 ### CULane
 
