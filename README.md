@@ -22,8 +22,8 @@ https://user-images.githubusercontent.com/79684320/233837770-5d0b6579-ff7e-4969-
 
 |   Method |   Backbone  |  F1@50 | F1w  | FPS |
 | :---  | :---  |  :---:   |   :---:    | :---:|
-|  FLMANet  | [ResNet-34]()     | 80.19  |  80.96   | 98 |
-|  FLMANet  | [DLA-34]()     | 80.55|  82.06   | 82 |
+|  FLMANet  | [ResNet-34](https://drive.google.com/file/d/1mtX-lf7T1F88j7BIB6agG6erIPDkUYvI/view?usp=sharing)     | 80.15  |  80.93   | 93 |
+|  FLMANet  | [DLA-34](https://drive.google.com/file/d/1SK8rr7jHhR_8sLynLQQwdUnO3yCeO1Nu/view?usp=sharing)     | 80.67|  82.31   | 101 |
 
 ## Introduction
 ![FLAMNet](https://user-images.githubusercontent.com/79684320/233835753-07905d1a-ff30-44ff-9ea8-d68a03030781.png)
